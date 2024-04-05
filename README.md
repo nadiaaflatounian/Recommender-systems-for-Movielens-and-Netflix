@@ -20,6 +20,11 @@ This repository contains the code for building a recommendation system using the
 
 6. **MovieLens_SVD_FinalVersion.ipynb**: This notebook contains SVD and SVD++  methods implemented for recommender system on MovieLens dataset.
 
+7. **MovieLens_CF(Item_Genre)_FinalVersion.ipynb**: This notebook aims to develop a movie recommendation system by implementing User-Based Collaborative Filtering using K-Nearest Neighbors (KNN) prediction and classification techniques on the MovieLens dataset. It focuses on analyzing user ratings and movie genres to provide personalized movie recommendations. Key features include data preprocessing, genre analysis, and implementing similarity measures for recommendation.
+
+8. **Netflix_CF(Item)_FinalVersion.ipynb**: This notebook outlines the process of creating a movie recommendation system by implementing User-Based Collaborative Filtering using K-Nearest Neighbors (KNN) prediction and classification techniques on the Netflix dataset. It emphasizes feature engineering, genre analysis, similarity computations, and model evaluation. The system aims to provide personalized movie recommendations based on user ratings and genre preferences.
+
+
 ### Usage:
 
 To use this repository, follow these steps:
