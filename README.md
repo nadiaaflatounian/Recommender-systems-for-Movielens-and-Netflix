@@ -33,6 +33,8 @@ To use this repository, follow these steps:
    - Netflix_Cleaning.ipynb
    - Netflix_EDA.ipynb
    - Other notebooks using saved file in Netflix_EDA.ipynb
+     
+**Note** All cleaning, EDA and implementation are integrated in Files MovieLens_SVD_FinalVersion.ipynb, MovieLens_CF(Item_Genre)_FinalVersion.ipynb and Netflix_CF(Item)_FinalVersion.ipynb are 
 
 2. Ensure all necessary libraries and dependencies are installed.
 
